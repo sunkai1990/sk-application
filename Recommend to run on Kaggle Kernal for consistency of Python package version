@@ -1,1 +1,3 @@
 Recommend to run on Kaggle Kernal for consistency of python package version
+the input data is in the "input" directory
+the python script is in the "run" directory.
