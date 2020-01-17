@@ -1,4 +1,15 @@
-Recommend to run on Kaggle Kernal for consistency of python package version
-the input data is in the "input" directory
-the python script is in the "run" directory.
+Recommend to run on Kaggle Kernal for the consistency of python package version
+
+the input data is in the "input" folder
+the python script "houseprice.py" is in the "run" folder
+
+If run on Kaggle Kernal:
+participate in "House Prices: Advanced Regression Techniques" competition and paste the script into Kaggle Kernal and run it
+or
+create a new notebook, paste the script into Kaggle Kernal and add the "input/house-prices-advanced-regression-techniques" folder into Kernal 
+
+If run on your computer:
+Download and place the "input" and "run" folder in the same directory, and run "houseprice.py" in the "run" folder.
+
+
 Thank u~
