@@ -6,7 +6,7 @@ the python script "houseprice.py" is in the "run" folder
 If run on Kaggle Kernal:
 participate in "House Prices: Advanced Regression Techniques" competition and paste "houseprice.py" into Kaggle Kernal and run it
 or
-create a new notebook, add the "input/house-prices-advanced-regression-techniques" folder into Kernal, and paste "houseprice.py" into Kaggle Kernal and run it
+create a new notebook, add "House Prices: Advanced Regression Techniques" competition data, and paste "houseprice.py" into Kaggle Kernal and run it
 
 If run on your computer:
 Download and place the "input" and "run" folder in the same directory, and run "houseprice.py" in the "run" folder.
